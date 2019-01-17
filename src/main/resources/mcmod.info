@@ -1,0 +1,16 @@
+[
+{
+  "modid": "networkmodfix",
+  "name": "NetworkModFix",
+  "description": "Fix Network Rpc Mod.",
+  "version": "${version}",
+  "mcversion": "[1.7.10,1.12.2]",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ZekerZhayard"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
